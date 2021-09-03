@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fabianmaier
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me: email: fabianmaier30@yahoo.com
